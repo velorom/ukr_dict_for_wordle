@@ -1,4 +1,5 @@
-# ukr_dict_for_wordle
+# Ukrainian dictionary for Wordle game
+
 Ukrainian dictionary for Wordle game
 
 All words extracted from this dictionary:
